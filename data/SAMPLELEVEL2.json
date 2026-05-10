@@ -8,5 +8,10 @@
     "percentToQualify": "69",
     "password": "Free to Copy",
     "records": [
+       {
+           "user": "skullchamper"
+           "percent": 100,
+           "hz": 240
+       }    
     ]
 }
