@@ -8,10 +8,6 @@
     "percentToQualify": 66,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Oliver",
-            "percent": 100,
-            "hz": 240
-        }
+       
     ]
 }
