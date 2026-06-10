@@ -8,5 +8,25 @@
     "percentToQualify": "71",
     "password": "idk",
     "records": [
-        ]
+       {
+           "user": "yahmo1390",
+           "percent": 100,
+           "hz": 240
+       },
+       {
+           "user": "DanielR",
+           "percent": 100,
+           "hz": 240
+       },
+        {
+            "user": "PissMaster",
+            "percent": 100
+            "hz": 240
+        },
+        {
+            "user": "Daps26",
+            "percent": 100,
+            "hz": 240
+        }
+    ]   
 }
