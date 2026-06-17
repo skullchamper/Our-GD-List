@@ -8,6 +8,35 @@
     "percentToQualify": 66,
     "password": "Not Copyable",
     "records": [
-       
+    {
+            "user": "PissMaster",
+            "link": "https://youtu.be/dOdPoU1ncOc?si=jtdnx069TqXyKrTd",
+            "percent": 100,
+            "hz": 240
+    },
+    {
+            "user": "coolppl_idk",
+            "link": "https://youtu.be/dOdPoU1ncOc?si=jtdnx069TqXyKrTd",
+            "percent": 100,
+            "hz": 240
+    },
+    {
+            "user": "SolverSeek",
+            "link": "https://youtu.be/dOdPoU1ncOc?si=jtdnx069TqXyKrTd",
+            "percent": 100,
+            "hz": 240
+    },
+    {
+            "user": "coolppl_idk",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+    },
+    {
+            "user": "DanielR",
+            "link": "https://youtu.be/dOdPoU1ncOc?si=jtdnx069TqXyKrTd",
+            "percent": 100,
+            "hz": 240
+    }
     ]
 }
