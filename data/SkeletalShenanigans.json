@@ -8,5 +8,11 @@
     "percentToQualify": "63",
     "password": "idk",
     "records": [
+         {
+            "user": "Aren12345",
+            "link": "https://youtu.be/mgzTHUKATqo?si=Ud2dJqmKdrS-80Eu",
+            "percent": 100,
+            "hz": 240
+         }
         ]
 }
