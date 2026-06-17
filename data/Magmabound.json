@@ -8,5 +8,11 @@
     "percentToQualify": "57",
     "password": "idk",
     "records": [
+        {
+            "user": "coolppl_idk",
+            "link": "https://youtu.be/B3C6XVjpSJ4?si=pt2jRKx8DaUdyT19",
+            "percent": 100,
+            "hz": 240
+        }
         ]
 }
