@@ -8,5 +8,23 @@
     "percentToQualify": "74",
     "password": "idk",
     "records": [
+         {
+            "user": "Arc",
+            "link": "https://youtu.be/dOJhARl5H30?si=-5P65qTcNSJ8lpao",
+            "percent": 100,
+            "hz": 240
+         },
+         {
+            "user": "Yahmo1390",
+            "link": "https://youtu.be/dOJhARl5H30?si=-5P65qTcNSJ8lpao",
+            "percent": 100,
+            "hz": 240
+         },
+         {
+            "user": "PissMaster",
+            "link": "https://youtu.be/dOJhARl5H30?si=-5P65qTcNSJ8lpao",
+            "percent": 100,
+            "hz": 240
+         }
         ]
 }
