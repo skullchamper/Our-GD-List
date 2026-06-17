@@ -8,5 +8,11 @@
     "percentToQualify": "68",
     "password": "idk",
     "records": [
+         {
+            "user": "PissMaster",
+            "link": "https://youtu.be/gTtsrzNUJM8?si=3LUfJfaHpBVmOtXM",
+            "percent": 100,
+            "hz": 240
+         }
         ]
 }
