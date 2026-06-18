@@ -8,5 +8,11 @@
     "percentToQualify": "62",
     "password": "idk",
     "records": [
+         {
+            "user": "SolverSeek",
+            "link": "https://youtu.be/PXqnZoHfTmE?si=NYV-qcNH1GAV0KYt",
+            "percent": 100,
+            "hz": 240
+         }
         ]
 }
