@@ -28,9 +28,14 @@
     },
     {
             "user": "DanielR",
-            "link": "",
+            "link": "https://youtu.be/dOdPoU1ncOc?si=jtdnx069TqXyKrTd",
             "percent": 100,
             "hz": 240
-    }
-       ]
+    },
+     {
+            "user": "Daps26",
+            "link": "https://youtu.be/dOdPoU1ncOc?si=jtdnx069TqXyKrTd",
+            "percent": 73,
+            "hz": 240
+     }       ]
 }
