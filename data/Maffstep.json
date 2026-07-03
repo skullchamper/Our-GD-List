@@ -8,5 +8,11 @@
     "percentToQualify": "86",
     "password": "idk",
     "records": [
+         {
+            "user": "Daps26",
+            "link": "https://youtu.be/8fUzlNVqGrU?si=Js17RVCt4-xKI-Wp",
+            "percent": 100,
+            "hz": 240
+         }
         ]
 }
