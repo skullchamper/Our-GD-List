@@ -8,5 +8,11 @@
     "percentToQualify": "48",
     "password": "idk",
     "records": [
+         {
+            "user": "DanielR",
+            "link": "https://youtu.be/ZFLNHgVtNWM?si=UTlkMfGcOkgtzafd",
+            "percent": 100,
+            "hz": 240
+         }
         ]
 }
