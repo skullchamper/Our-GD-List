@@ -5,8 +5,14 @@
     "creators": ["Xender Game"],
     "verifier": "Coolppl_idk",
     "verification": "https://youtu.be/tL2X3Fy0BUQ?si=82ygSv1g8dimKVqn",
-    "percentToQualify": "48",
+    "percentToQualify": "76",
     "password": "idk",
     "records": [
+         {
+            "user": "Skullchamper",
+            "link": "https://youtu.be/tL2X3Fy0BUQ?si=82ygSv1g8dimKVqn",
+            "percent": 100,
+            "hz": 240
+         }
         ]
 }
