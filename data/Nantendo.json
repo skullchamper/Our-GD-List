@@ -8,5 +8,11 @@
     "percentToQualify": "48",
     "password": "idk",
     "records": [
+         {
+            "user": "Blazza",
+            "link": "https://youtu.be/xvVu8Kbpuqg?si=mu6y7JTFzqKs9tdc",
+            "percent": 100,
+            "hz": 240
+         }
         ]
 }
