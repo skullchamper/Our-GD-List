@@ -8,5 +8,11 @@
     "percentToQualify": "67",
     "password": "idk",
     "records": [
+         {
+            "user": "sovsetbanan",
+            "link": "https://youtu.be/UZ2b1dih2_U?si=2CEtHw6XhrFPunIB",
+            "percent": 100,
+            "hz": 240
+         }
         ]
 }
