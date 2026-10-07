@@ -8,5 +8,11 @@
     "percentToQualify": "58",
     "password": "idk",
     "records": [
+         {
+            "user": "Pointless",
+            "link": "https://youtu.be/6IWaukfoyaI?si=fG-lLGP0-rhdoyqZ",
+            "percent": 100,
+            "hz": 240
+         }
         ]
 }
