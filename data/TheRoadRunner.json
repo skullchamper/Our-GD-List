@@ -8,5 +8,11 @@
     "percentToQualify": "64",
     "password": "idk",
     "records": [
+         {
+            "user": "Skullchamper",
+            "link": "https://youtu.be/qE4ciiLSY0M?si=2VDfXSQmazeMu3Xi",
+            "percent": 100,
+            "hz": 240
+         }
         ]
 }
