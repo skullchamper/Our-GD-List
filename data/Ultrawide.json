@@ -1,6 +1,6 @@
 {
     "id": 84815242,
-    "name": "U L T R A W I D E",
+    "name": "U L T R A  W I D E",
     "author": "J27BLAZE",
     "creators": ["J27BLAZE"],
     "verifier": "Pointless",
@@ -8,5 +8,11 @@
     "percentToQualify": "48",
     "password": "idk",
     "records": [
+         {
+            "user": "Skullchamper",
+            "link": "https://youtu.be/Vjh8sIT-jIY?si=At2kVdrsBITOPk0C",
+            "percent": 100,
+            "hz": 240
+         }
         ]
 }
