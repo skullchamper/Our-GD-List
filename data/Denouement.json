@@ -1,0 +1,24 @@
+{
+    "id": 60619762,
+    "name": "Denouement",
+    "author": "Synactive GDZ",
+    "creators": ["Synactive GD","Pocket"],
+    "verifier": "Pointless",
+    "verification": "https://youtu.be/ziHvsAriE3s?si=eUfS7da-P6zzgT05",
+    "percentToQualify": "4",
+    "password": "idk",
+    "records": [
+       {
+            "user": "Aren12345",
+            "link": "https://youtu.be/ziHvsAriE3s?si=eUfS7da-P6zzgT05",
+            "percent": 80,
+            "hz": 240
+       },
+       {
+            "user": "Skullchamper",
+            "link": "https://youtu.be/ziHvsAriE3s?si=eUfS7da-P6zzgT05",
+            "percent": 4,
+            "hz": 240
+       }
+        ]
+}
