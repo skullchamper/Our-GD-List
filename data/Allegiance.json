@@ -1,0 +1,24 @@
+{
+    "id": 20761188,
+    "name": "Allegiance",
+    "author": "Nikroplays",
+    "creators": ["Nikroplays"],
+    "verifier": "SolverSeek",
+    "verification": "https://youtu.be/UaNyH5hnEdM?si=M-n_M2gOwfjaCaaF",
+    "percentToQualify": "48",
+    "password": "idk",
+    "records": [
+       {
+            "user": "coolppl_idk",
+            "link": "https://youtu.be/UaNyH5hnEdM?si=M-n_M2gOwfjaCaaF",
+            "percent": 96,
+            "hz": 240
+       },
+       {
+            "user": "blastinsanity",
+            "link": "https://youtu.be/UaNyH5hnEdM?si=M-n_M2gOwfjaCaaF",
+            "percent": 91,
+            "hz": 240
+       }
+        ]
+}
